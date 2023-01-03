@@ -1,0 +1,128 @@
+{    
+    "title": "The Curious Case of Benjamin Button      ",
+    "plot": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business                     ",
+    "genres": ["Fantasy", "Drama", "Romance"],
+    "rating": "PG-13       ",
+    "studio": "Warner Bros",
+    "director": "David Fincher",
+    "castMembers": ["Brad Pitt    ", "Cate Blanchett", "Tilda Swinton"],
+    "dateReleased": "07/04/2008",
+    "runtime": "2h 46min"
+}
+
+{    
+    "title": "The Dark Knight",
+    "plot": "Fight Between Batman and Joker",
+    "genres": ["SuperHero", "Drama", "Sci-Fi"],
+    "rating": "PG-13    ",
+    "studio": "Warner Bros",
+    "director": "Christopher Nolan",
+    "castMembers":  ["Chritian Bale", "Heath Ledger", "Michael Caine", "Morgan Freeman"],
+    "dateReleased": "09/31/2008",
+    "runtime": "2h 42min"
+}
+
+{    
+    "title": "Tick Tick Boom",
+    "plot": "Story of Jonathan Larson on how he struggled and wrote tick tick boom and RENT for Broadway",
+    "genres": ["Biography", "Drama"],
+    "rating": "PG-13    ",
+    "studio": "Summit Entertainment Cross Creek",
+    "director": "LinManuel Miranda",
+    "castMembers": ["Andrew Garfield", "Vanessa Hudgens", "Alexandra ship", "Robinde Jesus"],
+    "dateReleased": "10/12/2021",
+    "runtime": "1h 45min"
+}
+
+{    
+    "title": "The Amazing SpiderMan",
+    "plot": "Abandoned by his parents and raised by an aunt and uncle, teenager Peter Parker (Andrew Garfield), AKA Spider-Man, is trying to sort out who he is and exactly what his feelings are for his first crush, Gwen Stacy (Emma Stone).",
+    "genres": ["Romance", "SuperHero", "Sci Fi"],
+    "rating": "PG-13    ",
+    "studio": "SONY PICTURES",
+    "director": "Marc Webb",
+    "castMembers": ["Andrew Garfield", "Emma Stone", "Curt Conners"],
+    "dateReleased": "10/15/2022",
+    "runtime": "2h 16min"
+}
+
+{    
+    "title": "The Hangover",
+    "plot": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.",
+    "genres": ["Comedy", "Friendship", "Bromance"],
+    "rating": "R    ",
+    "studio": "SONY PICTURES",
+    "director": "Todd Philips",
+    "castMembers": ["Bradley cooper", "Zack Gali", "Edd Helms"],
+    "dateReleased": "10/15/2022",
+    "runtime": "1h 40min"
+}
+
+{    
+    "title": "The Social Network",
+    "plot": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business..",
+    "genres": ["Biography", "Drama"],
+    "rating": "PG-13       ",
+    "studio": "SONY PICTURES",
+    "director": "David Fincher",
+    "castMembers": ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake"],
+    "dateReleased": "10/12/2010",
+    "runtime": "2h 00min"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{ 
+
+"reviewTitle": "My reviews",
+"reviewerName": "Deepali Nagwade",
+"review": "This movie was amazing. It was entertaining, and gives a new perspective to see failures.",
+"rating": 5.0 
+
+}
+
+{ 
+
+"reviewTitle": "One more review",
+"reviewerName": "Patrick Hill",
+"review": "This movie was amazing. It was entertaining, could have been more fun I guess.",
+"rating": 4.6 
+
+}
+
+{ 
+
+"reviewTitle": "Here Again",
+"reviewerName": "Lionel Messi",
+"review": "This movie was Phenomenal. Top level acting by AG",
+"rating": 4.4 
+}
+{ 
+
+"reviewTitle": "Again reviews",
+"reviewerName": "Patrick Hill",
+"review": "This movie was amazing. It was entertaining, and gives a new perspective to see failures.",
+"rating": 5.0 
+
+}
+{ 
+
+"reviewTitle": "Again reviews",
+"reviewerName": "Patrick Hill",
+"review": "This movie was amazing. It was entertaining, and gives a new perspective to see failures.",
+"rating": 5.0 
+
+}
