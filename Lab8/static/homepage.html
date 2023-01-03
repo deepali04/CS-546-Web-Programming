@@ -1,0 +1,42 @@
+<!-- 
+This page will be shown when the following route is hit: GET http://localhost:3000/
+This page will be a valid HTML document. 
+The title of the document should be "People Finder".
+You should have the title set as the <title> element of the HTML document and as an h1 in your document.
+Your page should reference a CSS file, /public/main-styles.css; with at least 10 rulesets that apply to this page; these 10 rules can also apply to elements across all of your pages, or be unique to this page.
+You should have a main element, and inside of the main element have a p element with a brief (2-3 sentence description) of what your website does.
+Also inside the main element, you will have a form; this form will POST to /searchpeople. 
+This form will have an input and a label; the label should properly reference the same id as the input.
+You should also have a button with a type of submit that submits the form.
+The input in your form should have a name of searchPersonName.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>People Finder</title>
+  <link rel="stylesheet" href="/public/main-styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>People Finder</h1>
+    <main>
+      <p>This website contains all the information about the People present in
+        the provided people.json API. It is used to find the People by their First Name or Last Name. 
+        When you enter any name in the search box, it will return information about all the people found related to the search string.
+      </p>
+      <form id="search-form" action="/searchpeople"  method="POST" class="new-search-form">
+        <div class="form-group">
+          <label for='searchPersonName'>Search Person</label>
+          <br>  
+            <input type="text" name="searchPersonName" placeholder="Enter Person name" id="searchPersonName"/>
+        </div>
+        <button type="submit">Search</button>
+      </form>
+    </main>  
+  </div>    
+</body>
+</html>

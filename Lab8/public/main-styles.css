@@ -1,0 +1,144 @@
+/*This file should have CSS rulesets */
+p {
+	color: rgb(190, 191, 190);
+	font-weight: bold;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+label{
+    font-size: medium;
+}
+
+#search-form{
+    background-color:rgb(48, 44, 44);
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+
+html, body {
+    background-color: rgb(7, 11, 11);
+}
+
+label {
+    color: rgb(245, 240, 240);
+    text-align: center;
+    font-weight: bold;
+    margin-left: 575px;
+}
+
+.form-group{
+
+    margin-top: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+input[type=text] {
+    width: 20%;
+    padding: 12px 20px;
+    margin-left: 300px;
+    box-sizing: border-box;
+    background-color: #949d9a;
+    color: black;
+  }
+
+button {
+    width: 10%;
+    padding: 12px 20px;
+    margin: 8px 565px;
+    box-sizing: border-box;
+    background-color: #949d9a;
+    color: black;
+
+  }
+h1 {
+    text-align:center;
+	color: rgb(244, 239, 236);
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+.container{
+   font: 1em sans-serif;
+
+}
+
+#searchPersonName{
+    margin-top: 30px;
+    margin-left: 500px;
+}
+
+h2 {
+    text-align:center;    
+	color: #7165b7;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+ul {
+    background-color: rgb(121, 120, 113);
+    width: 20%;
+    opacity: 0.9;
+	color: rgb(82, 74, 74);
+    margin-left: 550px;
+    margin-right: 300px;
+}
+
+li {
+	background-color: rgb(121, 120, 113);
+   
+    /* opacity: 0.9;
+	color: rgb(82, 74, 74);
+   
+    margin: 8px 190px; */
+}
+
+a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+a {
+	color: rgb(251, 248, 248);
+	text-decoration: none;
+    text-align: center;
+	font-size: 15pt;
+}
+
+.form-error {
+    background-color: rgb(88, 88, 84);
+	color: rgb(255, 0, 0);
+}
+
+ dl {
+    width: 60%;
+    overflow: hidden;
+    background: rgb(15, 17, 20);
+    text-align: center;
+    margin-left:400px ;
+    margin-right:350px ;
+	color: rgb(228, 223, 228);
+	text-decoration: none;
+	font-size: 15pt;
+  }
+ dt {
+    float: left;
+    width: 30%;
+    /* adjust the width; make sure the total of both is 100% */
+    background: rgb(38, 36, 26);
+    margin: 0;
+  }
+dd {
+    float: left;
+    width: 50%;
+    /* adjust the width; make sure the total of both is 100% */
+    background: rgb(38, 36, 26);
+    padding: 0;
+    margin:  0;
+  }
+
+  .searchOp{
+    text-align:center;
+    display:block;
+  }
